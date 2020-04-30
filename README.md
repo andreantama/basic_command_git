@@ -1,7 +1,7 @@
 # BASIC COMMAND GIT
 some basic command how to use git 
-1. git config --global user.name "Andrean Yogatama"
-2. git config --global user.email "andreanyogatama1@gmail.com"
+1. git config --global user.name "Andreantama"
+2. git config --global user.email "tama@gmail.com"
 3. git init (untuk memonitor semua yang ada didalam folder)
 4. git add namafile.html 
 5. git status
@@ -10,6 +10,7 @@ some basic command how to use git
 8. git diff (melihat semua perubahan pada suatu file/folder)
 9. git show 'nomor commit' (melihat detail pada file perubahannya)
 10. git reset 'nomor commit'
+11. git config --list (melihat semua list settings)
 
 BRANCH(cabang)
 1. git branch (melihat cabang) 
